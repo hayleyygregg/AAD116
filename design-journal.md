@@ -38,6 +38,7 @@ Priceless Relics of the Spanish Armada
 ###by Robert Sténuit
 
 *Illustrations by National Geographic*
+
 *Photographer Bates Lilttlehales*
 
 A wild north wind lashed the galleass as she sailed eastward across the top of Ireland. A monstrous wave had smashed her jury rudder; now she yawed and rolled in the troughs, making relentless leeway toward night-hidden cliffs to starboard.
@@ -68,8 +69,8 @@ Week 3
 
 Hired books:
 
-* Stop stealing sheep : & find out how type works - Erik Spiekermann & E.M. Gi
-* Just my type : a book about fonts - Simon Garfield
+* Stop stealing sheep & find out how type works - Erik Spiekermann & E.M. Gi
+* Just my type: a book about fonts - Simon Garfield
 
 
 Week 4
