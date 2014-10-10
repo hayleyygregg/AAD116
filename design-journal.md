@@ -63,6 +63,33 @@ The wind won. White water boiled off the starboard bow. A scream from the lookou
 
 Week 2
 ------
+* Working with limitations will expand your creativity e.g. <a href="http://www.bbc.co.uk/music/reviews/wp9p" title="About Album">Nils Fraham - Screws</a>
+
+###Branding
+
+* Keep it simple - less is more
+* Always refer back to the brief
+* Sketch initial ideas - quicker than computer
+
+###Cave Paintings
+
+We were shown 'The Panel of Hands' which were cave paintings in Spain where paint was blown over the hand while it was pressed against stone. This sparked an idea in my mind for a little experiment/side project! We were also shown cave paintings where dots had been used to create an image - this related to the design fundamental 'point' we had been learning this week! Through research it was dicovered these paintings are thought to be'the earliest examples of pointillism', an example of this type of painting is <a href="http://www.bradshawfoundation.com/chauvet/red_dots_panel.php" title="View source of information">'Red Dots Panel'</a>.
+
+We looked at proportioning e.g. the Vitruvian Man & the Golden Ratio which is very important for giving a design balance and beauty. Through research I discovered that the Golden Ratio is also seen in nature, art and architecture such as 'The Last Supper' painting, the 'Great Pyraminds' in Egypt and 'The Parthenon' in Greece (<a href="http://www.goldennumber.net/golden-section/" title="View source">Source of information</a>).
+
+The Golden Ratio can also be seen in logos such as Apple and Twitter, and we were shown the <a href="http://www.sagmeisterwalsh.com/work/project/seed-logo/" title="View the logo">logo design</a> of 'Seed Media Group' that Stefen Sagmeister created using the Golden Ratio and nature as inspiration. It too, reminded me of the design fundamental, point, as it is just circles! I really like how Sagmeister also created variations of the logo using different colours, for example, the business cards are pixel-like portraits of the employees through using various coloured dots.
+
+I refreshed my memory by re-reading '<a href="http://typecast.com/blog/contrast-through-scale" title="View article">Contrast Through Scale</a> by Christopher Murphy' which explains how we can use these tools to define a hierarchy to guide the reader's eye through content on a page and provide a visual balance. The websites <a href="http://modularscale.com" title="View">modularscale.com</a> and <a href="http://type-scale.com" title="View">type-scale.com</a> are two handy ways of calculating the scale of type to provide that balance.
+
+Through an overveiw of the <a href="http://ilovetypography.com/2010/08/07/where-does-the-alphabet-come-from/" title="View website">history of the alphabet/written word</a>, I learned that the written word developed from pictorial to abstract and the Trajan typeface was based on the Roman square capitals inscripted on Trajan's Column. In an activity naming the fonts on screen during the lecture I came across some fonts that interested me:
+
+* <a href="http://upload.wikimedia.org/wikipedia/commons/0/0d/Raden_Segara_(Madurese_in_Javanese_script-published_in_1890)_(cropped).jpg" title="View font">Javanese Script</a>
+
+* <a href="http://www.fonts2u.com/ws-simple-gallifreyan.font" title="View font">Galafren</a> - (CIRCLES!)
+
+* <a href="http://britishlibrary.typepad.co.uk/americas/2012/10/james-evans-and-the-cree-syllabary.html" title="View font">Cree syllabics by James Evans</a>
+
+
 
 Week 3
 ------
