@@ -89,6 +89,13 @@ Through an overveiw of the <a href="http://ilovetypography.com/2010/08/07/where-
 
 * <a href="http://britishlibrary.typepad.co.uk/americas/2012/10/james-evans-and-the-cree-syllabary.html" title="View font">Cree syllabics by James Evans</a>
 
+We looked at the <a href="http://en.wikipedia.org/wiki/History_of_books" title="More info">history of books</a> and through research I discovered various materials that were used to write on , such as wooden tablets, silk, shell, bone and dried palm tree leaves. I learned that the book developed from writing on clay tablets, to Papyrus (in Egypt), Bamboo (in East Asia - for example <a href="http://en.wikipedia.org/wiki/The_Art_of_War" title="View">The Art of War</a>), which was replaced by Parchment and finally Paper in the form of <a href="http://en.wikipedia.org/wiki/Codex" title="What's codex?">codex</a> replaced the scroll.
+
+Moving on to <a href="http://en.wikipedia.org/wiki/Illuminated_manuscript" title="Find out more">Illuminated Manuscripts</a> we looked at the conservation of books, the <a href="http://en.wikipedia.org/wiki/Library_of_Alexandria" title="Find out more">Library of ALexandria</a> being mentioned which was 'one of the largest and most significant' that became famous for being burned to the ground destroying many scrolls and books.
+
+Scriptoriums were another form of conserving books as they were a place monks would copy and decorate manuscripts. <a href="http://en.wikipedia.org/wiki/Book_of_Kells" title="Find out more">The Book of Kells</a> is an example of a famous Illuminated Manuscript, which inspired ideas for the 'Type Tile' project.
+
+With the increased demand of distribution of books, the method of printing needed to develop in order to be faster and more efficient which brings us to the topic of next week's lecture.
 
 
 Week 3
