@@ -95,7 +95,7 @@ Moving on to <a href="http://en.wikipedia.org/wiki/Illuminated_manuscript" title
 
 Scriptoriums were another form of conserving books as they were a place monks would copy and decorate manuscripts. <a href="http://en.wikipedia.org/wiki/Book_of_Kells" title="Find out more">The Book of Kells</a> is an example of a famous Illuminated Manuscript, which inspired ideas for the 'Type Tile' project.
 
-With the increased demand of distribution of books, the method of printing needed to develop in order to be faster and more efficient which brings us to the topic of next week's lecture.
+With the increased demand of distribution of books, the method of printing needed to develop in order to be faster and more efficient, which brings us to the topic of next week's lecture.
 
 
 Week 3
