@@ -101,6 +101,19 @@ With the increased demand of distribution of books, the method of printing neede
 Week 3
 ------
 
+> The printing press is considered one of the most important inventions in history. This device has made it possible for books, newspapers, magazines, and other reading materials to be produced in great numbers - <a href="http://en.wikipedia.org/wiki/History_of_printing" title="View source">Wikipedia</a>
+
+'Movable Type' was first developed in China, 1040. In 1450  Johannes Gutenberg improved the system casting type using a matrix and hand mould which produced quick, low cost, high quality prints.
+
+The first book printed using 'Movable Type' was <a href="http://en.wikipedia.org/wiki/Gutenberg_Bible">The Gutenburg Bible</a>.
+
+* I learnt that the term leading came from the method of casting type "when thin strips of lead were inserted into the forms to increase the vertical distance between lines of type" - <a href="http://en.wikipedia.org/wiki/Leading" title="View source">Wikipedia</a>
+
+<!-- Insert image http://en.wikipedia.org/wiki/History_of_printing#mediaviewer/File:Metal_movable_type.jpg-->
+
+
+
+
 Hired books:
 
 * Stop stealing sheep & find out how type works - Erik Spiekermann & E.M. Gi
