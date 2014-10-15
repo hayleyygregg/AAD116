@@ -111,9 +111,20 @@ The first book printed using 'Movable Type' was <a href="http://en.wikipedia.org
 
 <!-- Insert image http://en.wikipedia.org/wiki/History_of_printing#mediaviewer/File:Metal_movable_type.jpg-->
 
-Albrecht Durer was mentioned who used Woodcuts as one of the methods for his work. It was mentioned that he added his monogram onto some of his work, which can be seen as an early form of branding. 
+Albrecht Durer was mentioned who used Woodcuts as one of the methods for his work. It was mentioned that he added his monogram onto some of his work, which can be seen as an early form of branding.
 
 He created a book, 'A Course in the Art of Measurement with Compass and Ruler' which goes into depth about font & proportions, which could be an interesting read.
+
+Due to the revolution of printing, varieties of fonts began to be created. We looked at fonts by Type designers that are still popular and used by Typographers today:
+
+* Nicolas Jenson
+ * Francesso Griffo (who designed the first italic typeface!)
+ * Claud Garamond
+ * William Caslon
+ * John Baskerville
+ * Giambattista Bodoni
+ 
+ The end of the 1800s seen the birth of Sans-Serif fonts and Vincent Figgins Slab-Serif font, Antique.
 
 
 
