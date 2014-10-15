@@ -111,6 +111,10 @@ The first book printed using 'Movable Type' was <a href="http://en.wikipedia.org
 
 <!-- Insert image http://en.wikipedia.org/wiki/History_of_printing#mediaviewer/File:Metal_movable_type.jpg-->
 
+Albrecht Durer was mentioned who used Woodcuts as one of the methods for his work. It was mentioned that he added his monogram onto some of his work, which can be seen as an early form of branding. 
+
+He created a book, 'A Course in the Art of Measurement with Compass and Ruler' which goes into depth about font & proportions, which could be an interesting read.
+
 
 
 
