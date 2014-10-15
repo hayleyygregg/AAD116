@@ -22,7 +22,7 @@ We were given a 'Type Tile' project, a 3x3 grid of different typefaces from diff
 * The alphabet and elements of lettering - Goudy, Frederic W.
 * Graphis typography 2 : an international selection of the best in typographic
 
-####In the seminar
+####Practical Lesson
 
 I was introduced to 'two essential tools for Interaction Designers', <a href="https://atom.io" title="What's Atom?">Atom</a> & <a href="http://daringfireball.net/projects/markdown/basics" title="What's Markdown?">Markdown</a>. Experiencing coding in the past, Markdown is like heaven! It is a simple way to write whatever you want and using Atom it can be generated into HTML! I must admit it is odd after learning the HTML way...
 
@@ -97,6 +97,37 @@ Scriptoriums were another form of conserving books as they were a place monks wo
 
 With the increased demand of distribution of books, the method of printing needed to develop in order to be faster and more efficient, which brings us to the topic of next week's lecture.
 
+###An Introduction to Github
+
+Our practical lesson was learning about Github.
+
+I learned that Github can be a storage space which allows for collaberative work to make changes without the worry of overwriting projects.
+
+<b>Notes:</b>
+
+* Repo (Repository) = storage space where you can store projects
+* Commit = a snapshot of code at a particular point in time that can have a descriptive message to help you when returning to a project at a later time
+* Push = putting commits to your Github Repo
+*Pull = bringing Github files back to the local computer
+*Fork = copy a Repo from one account to another
+* Branching = Splitting code in a way that allows you to work on a version seperate from the master to avoid ruining the origional
+* Star = Bookmarking
+
+We were then taken through step by step to get a version of a 'Hello World' Page Tim created which we then had to personalise.
+
+Using a wallpaper designed using the fundamental, Line, uploaded onto my Flickr account, I viewed all download sizes of the image and copied the URL of the image size I wanted to use. This was then added to the CSS code of my <a href="http://hayleyygregg.github.io" title="View Personal Page">hayleyygregg.github.io</a> page.
+
+As a homework, we were then asked to personalise our page to include a small piece to introduce ourselves.
+
+At first I hadn't a clue what to write about myself! I felt so boring! I wanted to try and get personality across in what I wrote, stuck, I took to Google and started looking at two Illustrators I idolise <a href="http://jessicahische.is/anoversharer">Jessica Hische</a> & <a href="http://jilldehaanart.prosite.com/10649/about-me">Jill De Hann</a>.
+
+Jessica's about me page is quite long and detailed, Jill's is short and fun. I felt Jessica's was the type of about me page I would have when I have more experience where I can write about the type of work I have done, which is difficult with no history...
+
+I found a good website which helped me to write my Bio : http://99u.com/articles/7025/the-resume-is-dead-the-bio-is-king. Another site, which helped me improve my opening paragraph was http://www.ambitcreativegroup.com/portfolio/designer-bios because these Bio's included what inspires them and what they are passionate about.
+
+Looking back at what I've wrote I know in the near future I will need to update this to include more about me, how I got to where I am today etc. But for now, I feel what I have written is just enough.
+
+
 
 Week 3
 ------
@@ -123,16 +154,17 @@ Due to the revolution of printing, varieties of fonts began to be created. We lo
  * William Caslon
  * John Baskerville
  * Giambattista Bodoni
- 
+
  The end of the 1800s seen the birth of Sans-Serif fonts and Vincent Figgins Slab-Serif font, Antique.
 
 
-
+[To Be Continued...]
 
 Hired books:
 
 * Stop stealing sheep & find out how type works - Erik Spiekermann & E.M. Gi
 * Just my type: a book about fonts - Simon Garfield
+
 
 
 Week 4
