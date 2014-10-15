@@ -12,11 +12,11 @@ Not being the biggest fan of history, I learned that I *need* to understand the 
 
 > “I hear and I forget. I see and I remember. I do and I understand.” - Confucius
 
-I liked this quote as it not only describes me as I have a head like a sieve, but it explains how the best way to learn is through activly doing. Here is a good post with some more of Confucius quotes with written explaination <a href="http://www.myrkothum.com/confucius-says-the-top-10-quotes-by-confucius/" title="View more Confucius quotes">myrkothum.com</a>.
+I liked this quote as it not only describes me as I have a head like a sieve, but it explains how the best way to learn is through actively doing. Here is a good post with some more of Confucius quotes with written explanation <a href="http://www.myrkothum.com/confucius-says-the-top-10-quotes-by-confucius/" title="View more Confucius quotes">myrkothum.com</a>.
 
 'Generative Design' was mentioned and I wasn't sure what it was, so I researched it to learn that it is a design method that uses Algorithms (<a href="http://en.wikipedia.org/wiki/Generative_Design" title="Find out more about Generative Design">Read more</a>) which is interesting to know for future projects. The importance of side projects was expressed as it is a great way to have fun and be creative, which could end up making you successful like <a href="http://jessicahische.is/anoversharer" title="Who's this?">Jessica Hische</a>!
 
-We were given a 'Type Tile' project, a 3x3 grid of different typefaces from different periods of history. Being a big fan of typeography, I am excited to get stuck into it! After class me and a small group of friends went to the library, which im ashamed to say I have not used before (my bad!) but I decided to get out of my comfort zone as i'm not a huge fan of reading and hire out some books which I thought could help inspire and educate me:
+We were given a 'Type Tile' project, a 3x3 grid of different typefaces from different periods of history. Being a big fan of typography, I am excited to get stuck into it! After class me and a small group of friends went to the library, which I'm ashamed to say I have not used before (my bad!) but I decided to get out of my comfort zone as I'm not a huge fan of reading and hire out some books which I thought could help inspire and educate me:
 
 * The Elements of Typographic Style - Robert Bringhurst
 * The alphabet and elements of lettering - Goudy, Frederic W.
@@ -73,7 +73,7 @@ Week 2
 
 ###Cave Paintings
 
-We were shown 'The Panel of Hands' which were cave paintings in Spain where paint was blown over the hand while it was pressed against stone. This sparked an idea in my mind for a little experiment/side project! We were also shown cave paintings where dots had been used to create an image - this related to the design fundamental 'point' we had been learning this week! Through research it was dicovered these paintings are thought to be'the earliest examples of pointillism', an example of this type of painting is <a href="http://www.bradshawfoundation.com/chauvet/red_dots_panel.php" title="View source of information">'Red Dots Panel'</a>.
+We were shown 'The Panel of Hands' which were cave paintings in Spain where paint was blown over the hand while it was pressed against stone. This sparked an idea in my mind for a little experiment/side project! We were also shown cave paintings where dots had been used to create an image - this related to the design fundamental 'point' we had been learning this week! Through research it was discovered these paintings are thought to be 'the earliest examples of pointillism', an example of this type of painting is <a href="http://www.bradshawfoundation.com/chauvet/red_dots_panel.php" title="View source of information">'Red Dots Panel'</a>.
 
 We looked at proportioning e.g. the Vitruvian Man & the Golden Ratio which is very important for giving a design balance and beauty. Through research I discovered that the Golden Ratio is also seen in nature, art and architecture such as 'The Last Supper' painting, the 'Great Pyraminds' in Egypt and 'The Parthenon' in Greece (<a href="http://www.goldennumber.net/golden-section/" title="View source">Source of information</a>).
 
@@ -81,7 +81,7 @@ The Golden Ratio can also be seen in logos such as Apple and Twitter, and we wer
 
 I refreshed my memory by re-reading '<a href="http://typecast.com/blog/contrast-through-scale" title="View article">Contrast Through Scale</a> by Christopher Murphy' which explains how we can use these tools to define a hierarchy to guide the reader's eye through content on a page and provide a visual balance. The websites <a href="http://modularscale.com" title="View">modularscale.com</a> and <a href="http://type-scale.com" title="View">type-scale.com</a> are two handy ways of calculating the scale of type to provide that balance.
 
-Through an overveiw of the <a href="http://ilovetypography.com/2010/08/07/where-does-the-alphabet-come-from/" title="View website">history of the alphabet/written word</a>, I learned that the written word developed from pictorial to abstract and the Trajan typeface was based on the Roman square capitals inscripted on Trajan's Column. In an activity naming the fonts on screen during the lecture I came across some fonts that interested me:
+Through an over view of the <a href="http://ilovetypography.com/2010/08/07/where-does-the-alphabet-come-from/" title="View website">history of the alphabet/written word</a>, I learned that the written word developed from pictorial to abstract and the Trajan typeface was based on the inscription of Roman square capitals on Trajan's Column. In an activity naming the fonts on screen during the lecture I came across some fonts that interested me:
 
 * <a href="http://upload.wikimedia.org/wikipedia/commons/0/0d/Raden_Segara_(Madurese_in_Javanese_script-published_in_1890)_(cropped).jpg" title="View font">Javanese Script</a>
 
@@ -101,7 +101,7 @@ With the increased demand of distribution of books, the method of printing neede
 
 Our practical lesson was learning about Github.
 
-I learned that Github can be a storage space which allows for collaberative work to make changes without the worry of overwriting projects.
+I learned that Github can be a storage space which allows for collaborative work to make changes without the worry of overwriting projects.
 
 <b>Notes:</b>
 
@@ -110,7 +110,7 @@ I learned that Github can be a storage space which allows for collaberative work
 * Push = putting commits to your Github Repo
 *Pull = bringing Github files back to the local computer
 *Fork = copy a Repo from one account to another
-* Branching = Splitting code in a way that allows you to work on a version seperate from the master to avoid ruining the origional
+* Branching = Splitting code in a way that allows you to work on a version separate from the master to avoid ruining the original
 * Star = Bookmarking
 
 We were then taken through step by step to get a version of a 'Hello World' Page Tim created which we then had to personalise.
