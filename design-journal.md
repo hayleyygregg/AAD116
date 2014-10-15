@@ -28,6 +28,8 @@ I was introduced to 'two essential tools for Interaction Designers', <a href="ht
 
 To get used to Markdown, we were given a task of re-creating a PDF provided to us, below is my attempt (note no CSS is used):
 
+* To complete this task I used the notes on markdown I had taken from the practical class and the websites https://help.github.com/articles/markdown-basics/ and when I got stuck with blockquotes this site helped me: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
 
 Ireland's rugged coast yields
 =============================
@@ -59,6 +61,7 @@ The wind won. White water boiled off the starboard bow. A scream from the lookou
 * Gold ducats
 
 **The Author:** Veteran Belgin dicer Robert Sténuit spent two days at 432 feet beneath the sea in a pioneering test he described in **"The Deepest Days"**, National Geographic, April 1965. Here he tells the dramatic story of finding the Girona.
+
 
 
 Week 2
