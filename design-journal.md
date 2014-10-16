@@ -158,7 +158,7 @@ We were then taken through step by step to get a version of a 'Hello World' Page
 
 Using a wallpaper designed using the fundamental, Line, uploaded onto my Flickr account, I viewed all download sizes of the image and copied the URL of the image size I wanted to use. This was then added to the CSS code of my <a href="http://hayleyygregg.github.io" title="View Personal Page">hayleyygregg.github.io</a> page.
 
-As a homework, we were then asked to personalise our page to include a small piece to introduce ourselves.
+As a homework, we were then asked to personalise our page to include a small piece to introduce ourselves. (Check out Week 3)
 
 At first I hadn't a clue what to write about myself! I felt so boring! I wanted to try and get personality across in what I wrote, stuck, I took to Google and started looking at two Illustrators I idolise <a href="http://jessicahische.is/anoversharer">Jessica Hische</a> & <a href="http://jilldehaanart.prosite.com/10649/about-me">Jill De Hann</a>.
 
@@ -205,6 +205,25 @@ Hired books:
 
 * Stop stealing sheep & find out how type works - Erik Spiekermann & E.M. Gi
 * Just my type: a book about fonts - Simon Garfield
+
+###Personalising Github Page
+
+At first I hadn't a clue what to write about myself! I felt so boring! I wanted to try and get personality across in what I wrote, stuck, I took to Google and started looking at two Illustrators I idolise <a href="http://jessicahische.is/anoversharer">Jessica Hische</a> & <a href="http://jilldehaanart.prosite.com/10649/about-me">Jill De Hann</a>.
+
+Jessica's about me page is quite long and detailed, Jill's is short and fun. I felt Jessica's was the type of about me page I would have when I have more experience where I can write about the type of work I have done, which is difficult with no history...
+
+I found a good website which helped me to write my Bio : http://99u.com/articles/7025/the-resume-is-dead-the-bio-is-king. Another site, which helped me improve my opening paragraph was http://www.ambitcreativegroup.com/portfolio/designer-bios because these Bio's included what inspires them and what they are passionate about.
+
+After writing my Bio I discovered examples  provided to get inspiration from, I liked <a href="http://www.sazzy.co.uk/about/">Sarah Paramenter's</a> 'About' Page as it has a type of FAQs section which I thought was a good and fun idea.
+
+Looking back at what I've wrote I know in the near future I will need to update this to include more about me, my story of how I got to where I am today etc. But for now, I feel what I have written is just enough.
+
+###Adding Images using Markdown
+Starting my AAD16 blog, I wondered how images are added to Github. I thought this would be shown to us at a later date, but I decided to do a little research to see if I could find anything to help me...
+
+I found the handy site https://daringfireball.net/projects/markdown/basics that also shows how to use Markdown Syntax. Github also provided a help page (https://help.github.com/articles/adding-images-to-wikis/) which matched the Markdown Syntax the 'daringfireball' site gave.
+
+Now that I know how, when I get time, I will start adding images to this blog!
 
 
 
