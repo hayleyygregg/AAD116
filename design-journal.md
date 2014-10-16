@@ -212,9 +212,9 @@ At first I hadn't a clue what to write about myself! I felt so boring! I wanted 
 
 Jessica's about me page is quite long and detailed, Jill's is short and fun. I felt Jessica's was the type of about me page I would have when I have more experience where I can write about the type of work I have done, which is difficult with no history...
 
-I found a good website which helped me to write my Bio : http://99u.com/articles/7025/the-resume-is-dead-the-bio-is-king. Another site, which helped me improve my opening paragraph was http://www.ambitcreativegroup.com/portfolio/designer-bios because these Bio's included what inspires them and what they are passionate about.
+I found a good website which helped me to write my Bio : http://99u.com/articles/7025/the-resume-is-dead-the-bio-is-king. Another site, which helped me improve my opening paragraph was http://www.ambitcreativegroup.com/portfolio/designer-bios because these Bio's included what inspires them and what they are passionate about. Last year in IMD, I was really interested in Typography and Hand-Lettering. Over the summer I tried to build some skill in this area, attempting calligraphy, reading blogs, researching Typography and watching tutorials. Therefore I thought this could be something I could express in my Bio to let people know what I'm interested in and like. I also wanted to get across that I am a hard worker, so I expressed how as a student I spend most of my time trying to develop as a designer.
 
-After writing my Bio I discovered examples  provided to get inspiration from, I liked <a href="http://www.sazzy.co.uk/about/">Sarah Paramenter's</a> 'About' Page as it has a type of FAQs section which I thought was a good and fun idea.
+After writing my Bio I discovered examples provided to get inspiration from, I liked <a href="http://www.sazzy.co.uk/about/">Sarah Paramenter's</a> 'About' Page as it has a type of FAQs section which I thought was a good and fun idea.
 
 Looking back at what I've wrote I know in the near future I will need to update this to include more about me, my story of how I got to where I am today etc. But for now, I feel what I have written is just enough.
 
