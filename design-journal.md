@@ -315,6 +315,125 @@ The first ever motion picture shot was the 'Roundhay Garden Scene by Louis Aimé
 
 However, Cinematography is credited to the Lumiere Brothers who 'invented their own device combining camera with printer and projector' calling it 'the Cinématographe.' Source: [earlycinema.com](http://www.earlycinema.com/pioneers/lumiere_bio.html)
 
+###Industrial Revolution
+
+The Industrial Revolution changed everything, with higher demands for print, hand production was taken over by machines for mass production. It also seen Graphic Design come to form with the help of the Letterpress.
+
+Letterpress printing produces a crisp, tangable bite in the type on a page that cannot be produced on screen. With hand production 'letters are not pictures of things', they are real things. Colour is chosen by eye, not catalogue number.
+
+The Linotype machine was the standard machine used for printing newspapers, magazines and posters as it was faster than the Letterpress, producing lines of metal type at a time.
+
+As a class, we were shown a short documentary on the Letterpress which explained how much thought and precision went to producing material.
+
+> "A sixth of an inch counts"
+
+I found this short clip interesting, it showed the distinctive style a Letterpress produces. I also found it interesting how a Maltese Cross was created using four Serif letter I's cut to fit together.
+
+Now with programs such as Photoshop and Illustrator, there is not as much thought put into the design of some work as there was before, which is disappointing. Unfortunatly, it is inevitable that eventually the Letterpress will die, but I hope not for a long time yet, as the work it produces is too beautiful.
+
+###Japonism
+Japanese art influenced the European, especially impressionism. Artists influenced include:
+
+* Claude Monet
+
+<!--image-->
+
+* Vincent van Gogh
+
+<!--image-->
+
+
+* Henri de Toulouse
+
+
+<!--image-->
+
+
+###Arts & Crafts Movement
+This was a reaction against Industrialisation where thought was no longer being put into design. William Morris was a key figure in this movement encouraging artists to look to the past for inspiration.
+
+Best known for pattern design, they show inspiration from medieval influences, for example, the design of Illuminated Manuscripts.
+
+
+<!-- image of Wallpaper design, 'Trellis' 1862 -->
+
+###Art Nouveau
+This is a style of art inspired by nature, embarcing architecture, graphic art, interior design and decorative arts.
+
+The poster by Alphonse Mucha for Sarah Bernhardt in 1896 shows the style of Art Nouveau.
+
+<!-- image http://www.wikiart.org/en/alphonse-mucha/sarah-bernhardt-1896 -->
+
+Alphonse Mucha was also influenced by Japanese woodcuts as most of his work was in black and white. Illustrator Aubrey Beardsley was also influenced by Japanese woodcuts.
+
+<!-- image -->
+
+###The Glasgow School
+
+Made up of 'the Glasgow four':
+
+* Margaret MacDonald
+* Frances MacDonald
+* Charles Mackintosh
+* Herbert MacNair
+
+
+The Glasgow School was the centre of creativity that contributed in the feilds of architecture, interior design, and painting in Art Nouveau. (Source - [Wikipedia](http://en.wikipedia.org/wiki/Glasgow_School))
+
+The McDonald Sisters are renowned for work such as 'Drooko' a poster for an umbrella company:
+
+<!-- image -->
+
+Charles Mackintosh is seen as the main representative of Art Nouveau in the UK. He admired Japonism and incorporated these influences in his own style, the contrast between strong right angles and floral-inspired decorative motifs with subtle curves, known as 'the Mackintosh Rose' motif.
+
+<!--image-->
+
+
+
+
+###Vienna Secession
+Formed by Austrian Artists in 1897, this movement included painters, sculptors, and architects. (Source - [Wikipedia](http://en.wikipedia.org/wiki/Vienna_Secession))
+
+The key figure was Gustav Klimt. Researching him, I discovered he caused outcry over the paints he created from commission for decorating the celing of the Great Hall of the University of Vienna.
+
+Nuda Veritas (1899) was a kind-of reaction to what happened in 1894 that had the quotation by Friedrich Schiller, "If you cannot please everyone with your deeds and your art, please only a few. To please many is bad." I actually like this quote as it is true!
+
+I like The Beethoven Frieze (1902) by Klimt:
+
+<!-- image http://www.secession.at/beethovenfries/geschichte_e.html -->
+
+Other famous works of Klimt include The Kiss  and Portrait of Adele Bloch-Bauer I (1907) which I discovered both include gold leaf!
+
+Eduard Scholz was a Typefounder in Vienna  in the 1900s. His work includes typefaces, Reklameschrift Secession and Zierschrift Monopol, which have the style of Art Nouveau. (Source [luc.devroye.org](http://luc.devroye.org/fonts-53223.html))
+
+<!--images-->
+
+###Expressionism
+
+>Expressionism represents feeling in art and portrays mood rather than realism.
+
+Expressionists include:
+
+* “The Scream” by Edvard Munch
+
+<!-- image -->
+
+* Egon Schiele (Key figure)
+
+
+* Oskar Kokoschka
+
+
+###Modernism
+
+Peter Behrens is seen as the father of Graphic Design, known for designing the corporate identity of AEG.
+
+<!--image-->
+
+His work has inspired many, including Dieter Rams. Modernism moved away from traditions towards a clean style more appropriate to the present time which also impacted typography with the introduction to San-Serif Typefaces.
+
+<!--image of typeface eg egyptian or grotesque or gothic-->
+
 
 
 ###Practical
