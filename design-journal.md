@@ -190,11 +190,11 @@ He created a book, 'A Course in the Art of Measurement with Compass and Ruler' w
 Due to the revolution of printing, varieties of fonts began to be created. We looked at fonts by Type designers that are still popular and used by Typographers today:
 
 * Nicolas Jenson
- * Francesso Griffo (who designed the first italic typeface!)
- * Claud Garamond
- * William Caslon
- * John Baskerville
- * Giambattista Bodoni
+* Francesso Griffo (who designed the first italic typeface!)
+* Claud Garamond
+* William Caslon
+* John Baskerville
+* Giambattista Bodoni
 
  The end of the 1800s seen the birth of Sans-Serif fonts and Vincent Figgins Slab-Serif font, Antique.
 
@@ -212,9 +212,9 @@ At first I hadn't a clue what to write about myself! I felt so boring! I wanted 
 
 Jessica's about me page is quite long and detailed, Jill's is short and fun. I felt Jessica's was the type of about me page I would have when I have more experience where I can write about the type of work I have done, which is difficult with no history...
 
-I found a good website which helped me to write my Bio : http://99u.com/articles/7025/the-resume-is-dead-the-bio-is-king. Another site, which helped me improve my opening paragraph was http://www.ambitcreativegroup.com/portfolio/designer-bios because these Bio's included what inspires them and what they are passionate about. Last year in IMD, I was really interested in Typography and Hand-Lettering. Over the summer I tried to build some skill in this area, attempting calligraphy, reading blogs, researching Typography and watching tutorials. Therefore I thought this could be something I could express in my Bio to let people know what I'm interested in and like. I also wanted to get across that I am a hard worker, so I expressed how as a student I spend most of my time trying to develop as a designer.
+I found a good website which helped me to write my Bio : http://99u.com/articles/7025/the-resume-is-dead-the-bio-is-king. Another site, which helped me improve my opening paragraph was http://www.ambitcreativegroup.com/portfolio/designer-bios because these Bio's included what inspires them and what they are passionate about.
 
-After writing my Bio I discovered examples provided to get inspiration from, I liked <a href="http://www.sazzy.co.uk/about/">Sarah Paramenter's</a> 'About' Page as it has a type of FAQs section which I thought was a good and fun idea.
+After writing my Bio I discovered examples  provided to get inspiration from, I liked <a href="http://www.sazzy.co.uk/about/">Sarah Paramenter's</a> 'About' Page as it has a type of FAQs section which I thought was a good and fun idea.
 
 Looking back at what I've wrote I know in the near future I will need to update this to include more about me, my story of how I got to where I am today etc. But for now, I feel what I have written is just enough.
 
@@ -229,6 +229,69 @@ Now that I know how, when I get time, I will start adding images to this blog!
 
 Week 4
 ------
+
+###Century of Change
+
+The 1800s seen a huge change in society and technology, with the inventions of the Telephone by Alexander Bell (1876), George Eastman the founder of Kodak (1888) and the Escalator by Jesse Reno (1899).
+
+The first recorded photograph, 'View from the Window at Le Gras' was by Joseph Nicéphore Niépce in 1826. Through research I discovered it was through trail and error of a scientific/chemical-type process that Niépce created the first photograph:
+
+> "In 1826, through a process of trial and error, he finally came upon the combination of bitumen of Judea (a form of asphalt) spread over a pewter plate. When he let this petroleum-based substance sit in a camera obscura for eight hours without interruption, the light gradually hardened the bitumen where it hit, thus creating a rudimentary photo. He "developed" this picture by washing away the unhardened bitumen with lavender water, revealing an image of the rooftops and trees visible from his studio window. Niépce had successfully made the world's first photograph."
+
+Source [hrc.utexas.edu](http://www.hrc.utexas.edu/exhibitions/permanent/windows/southeast/joseph_nicephore_niepce.html)
+
+Louis-Jacques-Mandé Daguerre is seen as the father of photography, inventing 'the first publicly announced photographic process', Daguerrotype. (Source: [Wikipedia](http://en.wikipedia.org/wiki/Daguerreotype))
+
+<!--add image http://en.wikipedia.org/wiki/Louis_Daguerre#mediaviewer/File:Boulevard_du_Temple_by_Daguerre.jpg -->
+
+>"Boulevard du Temple, taken by Daguerre in 1838 in Paris, includes the earliest known candid photograph of a person. The image shows a street, but because of the over ten-minute exposure time the moving traffic does not appear. At the lower left, however, a man apparently having his boots polished, and the bootblack polishing them, were motionless enough for their images to be captured."
+
+Source: [Wikipedia](http://en.wikipedia.org/wiki/Louis_Daguerre#mediaviewer/File:Boulevard_du_Temple_by_Daguerre.jpg)
+
+###Photographers of War
+
+> "Mathew B. Brady was one of the most celebrated 19th-century American photographers, best known for his portraits of celebrities and his documentation of the American Civil War. He is credited with being the father of photojournalism."
+
+Source: [Wikipedia](http://en.wikipedia.org/wiki/Mathew_Brady)
+
+<!--mathew brady images-->
+
+Roger Fenton was a photographer of the 1855 Crimean War:
+
+<!--images-->
+
+Paul Seawright was commissioned by the Imperial War Museum, London. "Hidden was a response to the war in Afghanistan in 2002. Photographs of minefields and battlesites acknowledge that almost everything in the conflict was hidden or invisible." (Source: [paulseawright.com](http://www.paulseawright.com/hidden/))
+
+<!--photos-->
+
+
+###Moving Pictures
+
+(The content below sourced from [csa.com](http://www.csa.com/discoveryguides/film/review2.php))
+
+Through researching motion pictures I discovered the idea began with the use of static photographic stills projected rapidly. For example, the 'magic lantern', an early version of a slide projector that allowed images to pass through a lens with the use of light, supplied by a kerosene lamp. The inventor of the magic lamp was debated, but credited to Charles Hugyens.
+
+Projection machines took a long time to become advanced enough to be able to simulate motion, but the magic lamp influenced various versions in the 1830s, such as the Stroboscope by Simon Ritter von Stampfer of Vienna and the Kinematoscope by Coleman Sellers in 1861.
+
+
+####The first Motion Picture
+
+> "The concept of creating continuous live action did not occur until 1872 when British photographer Eadweard Muybridge was hired by California governor Leland Stanford to win a bet that all four hooves of a race horse left the ground when it ran."
+
+
+Through research I discovered that Muybridge "developed the idea of capturing the motion through setting 24 cameras in a row along a track, attaching a string to each camera shutter, and by an electric device, setting the cameras in successive operation as the horse passed... mounting the photographs on a Phenakisticope and projecting them through a magic lantern."
+
+
+In 1882 Emile Reynaud’s improved this discovery using the invention of the Praxinoscope (successor of the zoetrope) that she used to project Muybridge’s images from behind a screen. The same year, Etienne Jules Marey Developed 'a single camera that could shoot multiple images, taking 12 photographs in one second'.
+
+
+
+
+
+
+
+
+
 
 Week 5
 ------
