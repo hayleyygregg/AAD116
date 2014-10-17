@@ -313,6 +313,8 @@ I discovered that Thomas Edison was the first to create a music video in 1888 co
 
 The first ever motion picture shot was the 'Roundhay Garden Scene by Louis Aimé Le Prince' which was created by two receivers, both with a single lens and a take-up spool for paper negatives which were exposed in the summer of 1888.
 
+However, Cinematography is credited to the Lumiere Brothers who 'invented their own device combining camera with printer and projector' calling it 'the Cinématographe.' Source: [earlycinema.com](http://www.earlycinema.com/pioneers/lumiere_bio.html)
+
 
 
 ###Practical
