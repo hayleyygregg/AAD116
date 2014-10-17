@@ -156,7 +156,9 @@ I learned that Github can be a storage space which allows for collaborative work
 
 We were then taken through step by step to get a version of a 'Hello World' Page Tim created which we then had to personalise.
 
-Using a wallpaper designed using the fundamental, Line, uploaded onto my Flickr account, I viewed all download sizes of the image and copied the URL of the image size I wanted to use. This was then added to the CSS code of my <a href="http://hayleyygregg.github.io" title="View Personal Page">hayleyygregg.github.io</a> page.
+####Changing Background
+
+Using a wallpaper I designed applying the design fundamental of Line that I had uploaded onto my Flickr account, I viewed all download sizes of the image and copied the URL of the image size I wanted to use. This was then added to the CSS code of my <a href="http://hayleyygregg.github.io" title="View Personal Page">hayleyygregg.github.io</a> page.
 
 As a homework, we were then asked to personalise our page to include a small piece to introduce ourselves. (Check out Week 3)
 
@@ -267,6 +269,29 @@ Paul Seawright was commissioned by the Imperial War Museum, London. "Hidden was 
 
 ###Moving Pictures
 
+It was discovered that motion in pictures can be seen as far back as Cave Paintings, where it is believed some paintings intend to show movement to tell a story.(Source: [openculture.com] (http://www.openculture.com/2012/06/european_cave_art_was_it_the_earliest_form_of_cinema.html))
+
+<!--images  in locations Lascaux, Les Trois-Frères, Chauvet-->
+
+Moving on, The Mutoscope, invented by Herman Castler, became a form of movement in images by leafing through pictures on a wheel (like flipping a book) creating the illusion of motion.
+
+<!--image-->
+
+Researching the Zoetrope, I discovered the Phenakistoscope which was created in 1841, before the Mutoscope.
+
+
+<!--image http://en.wikipedia.org/wiki/Phenakistoscope-->
+
+The Zoetrope had similarities to this, only it allowed several people to view the animation at the same time.
+
+
+<!--image-->
+
+
+The 2009 [advert](https://www.youtube.com/watch?v=ERxMrMXTquk) for Sony was inspired by the history of motion picture, creating 'the worlds biggest Zoetrope', 'The Braviadome'.
+
+
+
 (The content below sourced from [csa.com](http://www.csa.com/discoveryguides/film/review2.php))
 
 Through researching motion pictures I discovered the idea began with the use of static photographic stills projected rapidly. For example, the 'magic lantern', an early version of a slide projector that allowed images to pass through a lens with the use of light, supplied by a kerosene lamp. The inventor of the magic lamp was debated, but credited to Charles Hugyens.
@@ -284,8 +309,23 @@ Through research I discovered that Muybridge "developed the idea of capturing th
 
 In 1882 Emile Reynaud’s improved this discovery using the invention of the Praxinoscope (successor of the zoetrope) that she used to project Muybridge’s images from behind a screen. The same year, Etienne Jules Marey Developed 'a single camera that could shoot multiple images, taking 12 photographs in one second'.
 
+I discovered that Thomas Edison was the first to create a music video in 1888 combining a visual companion to the phonograph, inspired by the work of Muybridge and Marey.
+
+The first ever motion picture shot was the 'Roundhay Garden Scene by Louis Aimé Le Prince' which was created by two receivers, both with a single lens and a take-up spool for paper negatives which were exposed in the summer of 1888.
 
 
+
+###Practical
+
+####Installing Github onto Desktop
+
+First I downloaded Github for Mac http://mac.github.com then it was explained that we must clone a repo so that it is on our local machine. Then you are able to work on the local file offline at any time.
+
+When you update a markdown file by saving it, the Github application automatically recognises this, then all I had to do to 'push' it onto my live Github was to hit 'Commit & Sync'. It was highlighted before pushing you can locally test that everything is working which is one advantage of this.
+
+Now that we know how to push and pull things from our Github this means I can now push up images adding relative links instead of using an absolute path like we had been first shown in Week 2.
+
+Its only Week 4 and I have already learned so much about Github. When we were first told as a class we would be using Github I was scared! I thought it would be so hard, but it's actually easier than I thought! I love how handy it is and because it uses Markdown it gets extra brownie points!
 
 
 
