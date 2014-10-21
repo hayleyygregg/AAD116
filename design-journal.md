@@ -205,13 +205,26 @@ Due to the revolution of printing, varieties of fonts began to be created. We lo
 
  The end of the 1800s seen the birth of Sans-Serif fonts and Vincent Figgins Slab-Serif font, Antique.
 
+It was explained that Typographers use the origins of type in order to inspire their own creations.
 
-[To Be Continued...]
+We then looked at designs by Jessica Hische, Marian Bantjes and Si Scott. Marian Bantjes [Portfolio](http://www.bantjes.com/project/fox-river-paper) on Fox River Paper show beautiful works, I love how sugar was used for one of her designs and I aim to find time to try it out for myself! I also love the incredible work of [Si Scott](http://siscottstudio.com/), I think he needs to be added to my list of people I'm inspired by!
+
+Finally Stefan Sagmeister was mentioned as his work revolves around reacting against the computer. His book ['Things I have learned in my life so far'](http://www.sagmeisterwalsh.com/work/project/things-i-have-learned-in-my-life-so-far/) was mentioned, so after class I had a look through it. It's pretty amazing, and some of his work inspired me and I hope to get a chance to try some ideas out! Sagmeister actually commissioned Bantjes to create a sugar piece to be included in his book using one of his quotes. ([See here](http://www.bantjes.com/project/stefan-sagmeister-sugar))
+
+Sagmeister's ['Take it On'](http://www.sagmeisterwalsh.com/work/project/sva-posters/) posters are amazing, using typography in a really unique way. He also is most famously known for getting a student to scrape words into him for his AIGA-Detroit Poster:
+
+<!--image-->
 
 Hired books:
 
 * Stop stealing sheep & find out how type works - Erik Spiekermann & E.M. Gi
-* Just my type: a book about fonts - Simon Garfield
+* Just My Type: a book about fonts - Simon Garfield
+
+####Book Review
+
+I first read the Stop stealing sheep book. It didn't take me long to read it all, but I found it very interesting and gained knowledge about how important typography is. I havn't read all of Just My Type yet, but my favourite Chapter was No. 6 'The Ampsersands Final Twist'. I learned that the Ampsersand is actually two letters (et) combined! I also learned finest Ampersand is by William Caslon and is hard to imitate. What I found interesting was the '[Coming Together](http://www.typesociety.org/fontaid/iv/)' project which is a font that consists of 483 differently designed ampsersands by designers all over the world! This inspired an idea of a side project also inspired by a project I found when I began to use Tumblr called [Project 365](http://project-three-sixtyfive.tumblr.com).
+
+<!--side project create 1 ampersand every month inspired by tumblr dude -->
 
 ###Personalising Github Page
 
