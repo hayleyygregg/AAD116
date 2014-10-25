@@ -119,7 +119,7 @@ Week 2
 
 ###Cave Paintings
 
-We were shown 'The Panel of Hands' which were cave paintings in Spain where paint was blown over the hand while it was pressed against stone. This sparked an idea in my mind for a little experiment/side project! We were also shown cave paintings where dots had been used to create an image - this related to the design fundamental 'point' we had been learning this week! Through research it was discovered these paintings are thought to be 'the earliest examples of pointillism', an example of this type of painting is <a href="http://www.bradshawfoundation.com/chauvet/red_dots_panel.php" title="View source of information">'Red Dots Panel'</a>.
+We were shown 'The Panel of Hands' which were cave paintings in Spain where paint was blown over the hand while it was pressed against stone. This sparked an idea in my mind for a little experiment/side project! (See Week 5!) We were also shown cave paintings where dots had been used to create an image - this related to the design fundamental 'point' we had been learning this week! Through research it was discovered these paintings are thought to be 'the earliest examples of pointillism', an example of this type of painting is <a href="http://www.bradshawfoundation.com/chauvet/red_dots_panel.php" title="View source of information">'Red Dots Panel'</a>.
 
 We looked at proportioning e.g. the Vitruvian Man & the Golden Ratio which is very important for giving a design balance and beauty. Through research I discovered that the Golden Ratio is also seen in nature, art and architecture such as 'The Last Supper' painting, the 'Great Pyraminds' in Egypt and 'The Parthenon' in Greece (<a href="http://www.goldennumber.net/golden-section/" title="View source">Source of information</a>).
 
@@ -541,6 +541,33 @@ Peace Through Chemistry, one of Lichtenstein's works, is seen as a play on Cubis
 
 [To be continued...]
 
+
+###Inspired Ideas
+
+Week 2 when we looked at the 'Panel of Hands' Cave Painting it immediatly sparked an idea of doing a modern version of this! So I bought some spray paints and got my Dad (because I realised my long nails would create a weird hand stencil!) to put his hands (gloved) on to a A3 page a couple of different ways while spraying different colours on paint, below shows the finished result:
+
+![Hand Painting](images/hand-art.jpg "Inspired by Cave Paintings")
+
+When we were learning about the design fundamental, Point, through research I discovered Pointalism.
+
+[Write about pointalism..]
+
+This also lead me to discover Aboriginal Dot Art which I learned originated from sand drawings:
+
+> The dotting style of many of the Aboriginal artists from this region was a natural evolution from their sand drawings as they translated the stories on the modern materials of paint and canvas.
+
+(Source: [kateowengallery.com](http://www.kateowengallery.com/page/Aboriginal-Dot-Painting.aspx))
+
+
+
+<!--image of aborigional art-->
+
+
+I found it a really interesting style and wanted to try it out for myself, finally I found the time to actually do it!
+
+![Dot Art](images/dotart.jpg "Inspired by Dot Art")
+
+![Dot Art](images/dotart2.jpg "Inspired by Dot Art")
 
 
 Week 6
