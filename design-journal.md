@@ -475,6 +475,74 @@ Its only Week 4 and I have already learned so much about Github. When we were fi
 Week 5
 ------
 
+###Influence of Modern Art
+
+Modern Art moved away from the traditions of the past and towards experimentation in abstract forms.
+
+
+> Modern art begins with the heritage of painters like Vincent van Gogh, Paul Cézanne, Paul Gauguin, Georges Seurat and Henri de Toulouse-Lautrec all of whom were essential for the development of modern art
+
+Source: [Wikipedia](http://en.wikipedia.org/wiki/Modern_art)
+
+
+####Cubism
+
+Source of Information: [Wikipedia](http://en.wikipedia.org/wiki/Cubism)
+
+This was an influential movement that revolutionized European painting and sculpture, and inspired related movements in music, literature and architecture.
+
+> In Cubist artwork, objects are analyzed, broken up and reassembled in an abstracted form — instead of depicting objects from one viewpoint, the artist depicts the subject from a multitude of viewpoints to represent the subject in a greater context.
+
+It is claimed that Pablo Picasso's 1907 painting Les Demoiselles d'Avignon was considered a major step in the movement to Cubism. This painting was influenced by African art which approached the human figure in an abstarct form. We can see this link through the features in two of the women in the painting who have African mask faces.
+
+<!--pic http://en.wikipedia.org/wiki/Cubism#mediaviewer/File:Les_Demoiselles_d%27Avignon.jpg-->
+
+Therefore Picasso is seen as one of the key figures of the early development of Cubism and Modern art. Two other artists inspired by African art include Paul Gauguin and Henri Matisse.
+
+<!--violin and candlestick 1910 http://en.wikipedia.org/wiki/Cubism#mediaviewer/File:Violin_and_Candlestick.jpg-->
+
+Georges Braque played a role in the development of Cubism, inspired by Picasso. He studied the effects of light, perspective and the technical means that painters used to represent these effects. (Source: [Wikipedia](http://en.wikipedia.org/wiki/Georges_Braque))
+
+Paul Cézanne is seen as one of the key figures that influenced the development of Cubism, advocating the idea that nature can be reduced to three solids; a cube, sphere and cone. It was this theory that Picasso based his first cubist paintings on.
+
+<!--paul c http://upload.wikimedia.org/wikipedia/commons/7/79/Paul_Cézanne_169.jpg-->
+
+Characteristics of Cubism include:
+
+* Flat/Geometric shapes
+* Block Colour
+* Different Viewpoints
+* Structured/Abstract design
+
+
+David Hockney's work has links to Cubism, such as his experiment with photography where combined “Polaroid photographs of one subject taken over an extended time and from several angles.” (Source: [npg.si.edu](http://www.npg.si.edu/cexh/artnews/hockney.htm))
+
+<!--image http://1.bp.blogspot.com/-gDOIaiibvRo/UQeLaTJ8Q7I/AAAAAAAAWD0/V57gE7KrwCI/s640/10_markoncain1.jpg-->
+
+
+
+
+
+Roy Lichtenstein developed a Pop-art style by 'experimenting with cartoon images from comic books, advertisements, and other popular imagery.' His work varied from abstract to figurative as he was developing his style, the elements that made his work instantly recognisable included:
+
+* Blown up images (either directly from or inspired by comic strips or newspaper ads)
+* Primary colors
+* Benday Dots
+* Black outlines
+
+
+Peace Through Chemistry, one of Lichtenstein's works, is seen as a play on Cubist composition.
+
+(Source: [reynoldahouse.org](http://www.reynoldahouse.org/collections/object/peace-through-chemistry-i?display=lightbox))
+
+<!--image http://www.reynoldahouse.org/collections/object/peace-through-chemistry-i?display=lightbox-->
+
+####Plakastil
+
+[To be continued...]
+
+
+
 Week 6
 ------
 
