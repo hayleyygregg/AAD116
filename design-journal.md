@@ -573,6 +573,71 @@ I found it a really interesting style and wanted to try it out for myself, final
 Week 6
 ------
 
+###Presentation
+
+This week was our group presentations on a selected topic. The group I was part of got the topic of 'Bauhaus and The New Typography'. Straight away I got researching as I didn't really know much about the Bauhaus apart from it was a design school...
+
+I read the chapters of Bauhaus and the New Typography in 'Megg's History of Graphic Design' which helped me get more of an understanding of the topic given. I also searched on the web finding some helpful websites on different areas relating to the main topic:
+
+* [Bauhaus and The New Typography](http://www.historyofgraphicdesign.weareswift.com/wp-content/uploads/2012/11/Week-6-The-Bauhaus-and-the-New-Typography.pdf)
+* [Brief Overview of Bauhaus and The New Typography](http://seminaldesign.com/HistoryofVC/20CenturyBauhaus.html)
+* [Finding out about Johannes Itten](http://en.wikipedia.org/wiki/Johannes_Itten)
+* [Itten's Colour Contrasts](http://www.worqx.com/color/itten.htm)
+* [Shneiderman's "Eight Golden Rules of Interface Design"](http://faculty.washington.edu/jtenenbg/courses/360/f04/sessions/schneidermanGoldenRules.html)
+* [Bauhaus Legacy](http://blog.visual.ly/six-lessons-from-the-bauhaus-masters-of-the-persuasive-graphic/)
+
+At the first meeting with the group I shared my knowledge with the group and expressed that I felt the presentation should be divided into sections just like the books and research had. The other members agreed and we spilt the topic into sections, assigning each member a section:
+
+* Intro
+* Bauhaus at Weimar
+* Impact of Laszlo Moholy-Nagy
+* Bauhaus at Dessau
+* The Final Years
+* Jan Tschichold and The New Typography
+
+The section I was assigned was Jan Tschichold and The New Typography, therefore I began to research this specific area.
+
+My Research included reading books and visiting a lot of websites:
+
+* Christopher Burke Active Literature - Jan Tschichold and New Typography
+* Philip B. Meggs. “Meggs' History of Graphic Design.”
+* http://guity-novin.blogspot.co.uk/2012/03/history-of-type-face.html
+* http://www.designishistory.com/1920/jan-tschichold/
+* http://www.eyemagazine.com/review/article/faith-in-asymmetry
+* http://www.eyemagazine.com/review/article/reflections-of-a-typographer
+http://dezignrogue.blogspot.co.uk/2013/02/jan-tschichold-and-new-typography.html
+* http://www.moma.org/visit/calendar/exhibitions/1015
+* http://www.olivertomas.com/books/the-new-typography/
+* http://www.designhistory.org/Avant_Garde_pages/DieNeueType.html
+* http://www.britannica.com/EBchecked/topic/607663/Jan-Tschichold
+* http://bauhaus-online.de/en/atlas/das-bauhaus/idee/bauhaus-weimar
+* http://www.electrolibrary.com/gdhistory/wp-content/pdf/lectures/hogd_lecture8_slides_sp11.pdf
+* http://www.historyofgraphicdesign.weareswift.com/wp-content/uploads/2012/11/Week-6-The-Bauhaus-and-the-New-Typography.pdf
+
+The way I like to research is to gather information from many resources, combine it and then use this information to be able to write my own version which is easier to understand.
+
+Therefore I copy and paste the information from each website I feel is important to mention, I then use this information as an example to work from to come up with my own version. You can see this method from the document attached below:
+
+
+* [Document 1](project2/Jan_Tschichold.docx)
+
+
+To you this might look confusing and a mess, but everyone has their own way of doing things!
+
+I then created a separate document which contained only what I had written, as the more I reworded the harder the document became to work on. When I had my final draft I then began to spilt the paragraphs into different slides and add links to the pictures I aimed to use:
+
+
+* [Document 2](project2/Jan_Tschichold_New_Typography.docx)
+
+
+We decided as a group to use Keynote for the presentation, hesitant, as I had never used it before, I decided to make my slides. I quickly got the hang of it and after a couple of hours I became a Keynote fan!
+
+After creating my slides adding my notes, animations, the lot, I thought 'I better check how long I take to present this...' Timing myself, my eyes nearly bulged out of my head realising I seriously needed to cut things out - as we technically only had 2 minutes each to speak as the presentation as a whole is only 10mins!
+
+Therefore I had to condense my notes, which was pretty upsetting for me because I felt like I was cutting out important stuff! However, the topic of the Bauhaus is that large that you could spend a whole presentation on just one tiny part of it.
+
+
+
 Week 7
 ------
 
