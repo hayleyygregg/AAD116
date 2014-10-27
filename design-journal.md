@@ -613,6 +613,7 @@ http://dezignrogue.blogspot.co.uk/2013/02/jan-tschichold-and-new-typography.html
 * http://bauhaus-online.de/en/atlas/das-bauhaus/idee/bauhaus-weimar
 * http://www.electrolibrary.com/gdhistory/wp-content/pdf/lectures/hogd_lecture8_slides_sp11.pdf
 * http://www.historyofgraphicdesign.weareswift.com/wp-content/uploads/2012/11/Week-6-The-Bauhaus-and-the-New-Typography.pdf
+* http://www.electrolibrary.com/gdhistory/wp-content/pdf/lectures/hogd_lecture8_slides_sp11.pdf
 
 The way I like to research is to gather information from many resources, combine it and then use this information to be able to write my own version which is easier to understand.
 
@@ -635,6 +636,41 @@ We decided as a group to use Keynote for the presentation, hesitant, as I had ne
 After creating my slides adding my notes, animations, the lot, I thought 'I better check how long I take to present this...' Timing myself, my eyes nearly bulged out of my head realising I seriously needed to cut things out - as we technically only had 2 minutes each to speak as the presentation as a whole is only 10mins!
 
 Therefore I had to condense my notes, which was pretty upsetting for me because I felt like I was cutting out important stuff! However, the topic of the Bauhaus is that large that you could spend a whole presentation on just one tiny part of it.
+
+In terms of the aesthetics of the presentation I felt the cover should include something like the triangle, square and circle I had seen on some images when searching Bauhaus. The reason for this was because it related to what we were learning in another module and I felt it would be something different to the stereotypical Bauhaus Logo that is predictable to use. Mentioning this to the team they agreed.
+
+Through [Research](http://jaced.com/2007/01/04/triangle-square-circle-a-psychological-test/) I discovered that the yellow triangle, red square and blue circle was a “psychological test” Wassily Kandinsky did on his students in 1923, and therefore related to the topic.
+
+
+
+My first idea was to just simply have the yellow triangle, red square and blue circle on a white background, no title. However I felt it just looked like no effort was put into it, so I started searching for inspiration on Google Images.
+
+These two images caught my attention:
+
+![Bauhaus Inspired Design](project2/coverinspo.jpg)
+
+
+![Bauhaus Inspired Design](project2/coverinspo.gif)
+
+
+
+I liked the way the letter b in the first image was used and the use of lines in the second image. Lines and diagonal type was a recurring theme and iconic to the principals of The New Typography, so I felt it was only appropriate to incorporate it into the cover design.
+
+I sketched some ideas:
+
+[add sketches]
+
+Then I decided to research typefaces. I tried to find out the typefaces mostly used by the Bauhaus (http://fontsinuse.com/uses/5/typefaces-at-the-bauhaus), however, these fonts weren't free. Therefore I decided to search Bauhaus in free font websites and after a couple of downloads found a typeface that closely resembled the second image above.
+
+I liked the designs in the Google Image search that had stretched the Ascender and Descender of letters, therefore I incorporated this into the design.
+
+Below shows the finished product, it was actually only a rough version to show the team, hoping they would provide some feedback or input... but it ended up being the cover. Personally, I'm not overly happy with it, but with the short time-frame I just had to make do.
+
+
+![Presentation Cover](project2/cover.png)
+
+
+
 
 
 
