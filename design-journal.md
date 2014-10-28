@@ -670,7 +670,10 @@ Below shows the finished product, it was actually only a rough version to show t
 ![Presentation Cover](project2/cover.png)
 
 
+Fonts used (from http://www.fontspace.com):
 
+* Baby Face
+* MonaKo
 
 
 
