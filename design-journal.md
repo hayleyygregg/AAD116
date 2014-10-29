@@ -548,11 +548,40 @@ Week 2 when we looked at the 'Panel of Hands' Cave Painting it immediatly sparke
 
 ![Hand Painting](images/hand-art.jpg "Inspired by Cave Paintings")
 
-When we were learning about the design fundamental, Point, through research I discovered Pointalism.
+When we were learning about the design fundamental, Point, through research I discovered Pointillism.
 
-[Write about pointalism..]
+> "Pointillism is a technique in which small, distinct dots of pure color are applied in patterns to form an image"
 
-This also lead me to discover Aboriginal Dot Art which I learned originated from sand drawings:
+Source: [Wikipedia](http://en.wikipedia.org/wiki/Pointillism)
+
+Through searching I found amazing work
+
+![Pointillism](images/pointillism.jpg)
+
+Source: [fujikoeurekachamploo.deviantart.com](http://fujikoeurekachamploo.deviantart.com/art/Hatsune-Miku-Valentine-Pointillism-354233448)
+
+![Pointillism](images/pointillism2.jpg)
+
+Source: [wordencarne.deviantart.com](http://wordencarne.deviantart.com/art/Pointillism-Luma-95528733)
+
+![Pointillism](images/pointillism3.jpg)
+
+Source: [armuri.deviantart.com](http://armuri.deviantart.com/art/Stitch-Pointillism-253463357)
+
+I found one artist who experiments using ballpoint pens and her work is amazing!
+
+![Ballpoint Pen Art](images/ballpointart.jpg)
+
+Source: [dry89.deviantart.com](http://dry89.deviantart.com/art/So-many-colors-part-Two-442296657)
+
+The bird she drew using the pointillism technique inspired me and I hope to try my own version sometime.
+
+![Pointillism](images/pointillism4.jpg)
+
+Source: [dry89.deviantart.com](http://dry89.deviantart.com/art/Wip-pointillism-391364110)
+
+
+This lead me to discover Aboriginal Dot Art which I learned originated from sand drawings:
 
 > The dotting style of many of the Aboriginal artists from this region was a natural evolution from their sand drawings as they translated the stories on the modern materials of paint and canvas.
 
