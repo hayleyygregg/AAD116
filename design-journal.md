@@ -558,19 +558,69 @@ He also designed many typefaces, such as Bernhard Fashion. We were shown a poste
 Source: [luc.devroye.org](http://luc.devroye.org/fonts-27018.html)
 
 
-###Minimal Love
+####Minimal Love
 
-I love the Minimalist style! I find it really interesting how something so simple can be so intriguing.
+I love the Minimalist style! I find its simplicity really interesting, below show some of my favourite designs:
 
-I like the ones I found on Google Images ([sharenator.com](http://www.sharenator.com/Minimalist_Film_Posters/#/6.html)) because they relate to Point, Line, Plane.
+I like the designs I found on Google Images ([sharenator.com](http://www.sharenator.com/Minimalist_Film_Posters/#/6.html)) because they relate to Point, Line, Plane.
 
 <!--images-->
 
 
-I also love Albert Exergian's Iconic TV Poster series:
+#####Albert Exergian's Iconic TV Poster series
 
 <!-- images  http://www.exergian.com -->
 
+
+#####Richard Robinson - Summer Ice
+
+<!-- [](http://www.richardrobinsondesign.co.uk/index.php?/project/summer-ice/)
+
+
+
+PIKACHU POSTER POINT LINE PLANE http://www.richardrobinsondesign.co.uk/index.php?/project/selected-posters/ -->
+
+#####Marko Manev - Marvel
+
+<!--images-->
+
+
+####Propaganda
+
+A form of advertising that provoked emotion, the most well-known has to be the 1915 millitary recruiting poster by Alfred Leete featuring Lord Horatio Kitchener, British secretary of war, pointing directly at the viewer:
+
+<!--image-->
+
+Some Propaganda used a sentimental approach, such as Savile Lumley's 1914, “Daddy, what did YOU do in the Great War?” which used guilt as the motivation for people to join.
+
+Another popular Propaganda was the American version of the Kitchener poster featuring James Montgomery Flagg:
+
+<!--image-->
+
+There are many imitations of the Kitchener poster, such as Colmans:
+
+<1--image-->
+
+####Futurism
+
+Originating in Italy, Futurism was a movement that embraced Industrialism, celebrating themes associated with contemporary concepts of the future such as violence, machinery and speed.
+
+<!--Abstract Speed and Sound 1913-1914 by Giacomo Balla-->
+
+
+####Calligrams - Visual Poetry
+
+Guillaume Apollinaire is an example of visual poetry as he used the arrangements of words in a poem to complement the meaning.
+
+<!--image-->
+
+
+Lewis Carroll's 1866 image for 'Alice's Adventures in Wonderland' is another example:
+
+<!--image-->
+
+
+####Dada
 
 [To be continued...]
 
