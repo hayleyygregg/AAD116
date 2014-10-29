@@ -539,6 +539,39 @@ Peace Through Chemistry, one of Lichtenstein's works, is seen as a play on Cubis
 
 ####Plakastil
 
+
+> “In German, Plakatstil means 'poster style'.  The characteristics of this art style are the joining of one produce image with minimal bold lettering... Bernhard’s trademark is simplicity.  His style consists of a flat color background combined with flat color shapes to illustrate the product and the product name.”
+
+Source: [designmylife.org](http://www.designmylife.org/?p=1938)
+
+Lucian Bernhard was the man that influenced the Plakastil style when he entered a poster contest for the Priester Match Company that won first prize due to its rare simplicity.
+
+<!--Priestler match poster-->
+
+
+He also designed many typefaces, such as Bernhard Fashion. We were shown a poster created in 2013 by Merle Perle that uses this typeface. I love it!
+
+
+![Poster](images/bfashion.jpg)
+
+
+Source: [luc.devroye.org](http://luc.devroye.org/fonts-27018.html)
+
+
+###Minimal Love
+
+I love the Minimalist style! I find it really interesting how something so simple can be so intriguing.
+
+I like the ones I found on Google Images ([sharenator.com](http://www.sharenator.com/Minimalist_Film_Posters/#/6.html)) because they relate to Point, Line, Plane.
+
+<!--images-->
+
+
+I also love Albert Exergian's Iconic TV Poster series:
+
+<!-- images  http://www.exergian.com -->
+
+
 [To be continued...]
 
 
