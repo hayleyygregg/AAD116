@@ -557,6 +557,15 @@ He also designed many typefaces, such as Bernhard Fashion. We were shown a poste
 
 Source: [luc.devroye.org](http://luc.devroye.org/fonts-27018.html)
 
+An example of a contemporary version of a Plakastil poster that also shows a form of Data Visualisation is the 'Scoreline' project by Adrian Newell which shows Thierry Henrys 226 individual goals scored for Arsenal:
+
+
+<!--image-->
+
+Newell also created a poster for Nike which involved him using a shoe print to create letters, leading to a typeface called 'make Your Mark':
+
+<!--images-->
+
 
 ####Minimal Love
 
@@ -599,7 +608,7 @@ Another popular Propaganda was the American version of the Kitchener poster feat
 
 There are many imitations of the Kitchener poster, such as Colmans:
 
-<1--image-->
+<!--image-->
 
 ####Futurism
 
@@ -622,7 +631,124 @@ Lewis Carroll's 1866 image for 'Alice's Adventures in Wonderland' is another exa
 
 ####Dada
 
-[To be continued...]
+Dadaists were Anti-art and Anti-War, questioning what art was. An example is the collage 'Arranged According to the Laws of Chance' by Jean Arp who mocked artists by dropping small pieces of paper onto a large sheet of paper, attaching them where they had fallen and then calling it 'art'.
+
+<!--image-->
+
+There were many key figures in this movement:
+
+The scandalous work of Marcel Duchamp, who turned a urinal upside down and called it Fountian (1917) and drew a moustache and beard on the Mona Lisa (L.H.O.O.Q. 1919):
+
+<!--images-->
+
+
+Hannah Höch, an originator of photomontage, an example of her work is the well known  'Cut with the Kitchen Knife through the Beer-Belly of the Weimar Republic', 1919:
+
+<!--image-->
+
+
+Raoul Hausmann, who would find objects from a number of places and then put them together in a collage, such as; ABCD 1923–24:
+
+
+<!--image-->
+
+
+Kurt Schwitters, who took a similar approach to Hausmann:
+
+
+<!--image-->
+
+
+Schwitters also designed and published periodicals, such as Merz which had a Dada theme. It allowed him to discover typography and structured approaches:
+
+
+
+<!--image-->
+
+
+#####Contempry Approach
+
+Jamie Reids promotional designs for The Sex Pistols are influenced by the Dada style and are seen as 'scandalous' as one includes a picture of the Queen:
+
+
+
+<!--image-->
+
+
+####Surrealism
+
+Using juxtapositions and optical illusions to play with the viewer's mind. An example is Salvador Dali, one of his most recognisable works is 'The Persistence of Memory' 1931:
+
+
+<!--image-->
+
+
+I like 'Swans Reflecting Elephants':
+
+
+<!--image http://gendermodernism.wordpress.com/exercises/exercise-2-surrealist-visual-art/ -->
+
+Dali also brought surrealism into the film world, designing the set and 'Dream Scene' in Hitchcock's Spellbound 1945:
+
+<!--image of eyes http://www.theculturist.com/home/tag/dream-sequence-from-vertigo-->
+
+
+Paul Klee was inspired by Surrealism, along with many other movements such as Cubism:
+
+<!--image-->
+
+
+I came across a 2014 artical of Surrealistic Photos by Jean-Yves Lemoigne, I like his “Urban Legends series because the man reminds me of a Unicorn:
+
+<!--image http://inspire.adobe.com/2014/3/1/surrealistic_photos_of_jean_yves_lemoigne.html-->
+
+
+####Art Deco
+
+A movement that embraced the Industrial Revolution, characterized by structured/geometric design and rich colours. An example of Art Deco is the “Dubo Dubon Dubonnet” (1932) poster by Cassandre:
+
+<!--image-->
+
+> The Art Deco movement was used as the basis for a design revamp of the London Underground in the 1930s. It influenced every aspect of design - from posters, trains, stations to the headquarters of the system at 55 Broadway - to create a modern, forward-looking transport system.
+
+
+Source: [BBC](http://www.bbc.co.uk/learningzone/clips/the-london-underground-and-art-deco/9304.html)
+
+
+####London Underground
+
+Between Edward Johnston and Eric Gill, the 'Johnston' typeface was created and'circulated as a lettering guide for sign-painters and also made into wood and metal type for posters, signs, and other publicity materials used throughout London's transport network.' (Source: [wired.co.uk](http://www.wired.co.uk/news/archive/2013-01/16/london-underground-typeface))
+
+
+<!--image of roundel http://www.ltmcollection.org/roundel/about/detailedhistory.html?IXpage=2&_IXSESSION_=mu_gOjV0Xzl&IXenlarge=i0000ouu -->
+
+
+The Underground Map has developed through the years, from a geographic representation (1905) to a more basic guide developed by Harry Beck (1933):
+
+
+
+<!--1905 http://homepage.ntlworld.com/clive.billson/tubemaps/1905.html
+
+
+
+
+1933 http://en.wikipedia.org/wiki/Harry_Beck#mediaviewer/File:Beck_Map_1933.jpg-->
+
+
+> He believed that passengers riding the Underground were not too bothered about geographical accuracy, and were more interested in how to get from one station to another and where to change trains.
+
+Source: [Wikipedia](http://en.wikipedia.org/wiki/Harry_Beck)
+
+
+The development of this map became a template for the design of transport maps all over the world such as, Moscow, New York and Washington.
+
+
+#####Mind the Map
+
+I discovered through a post on [i-am-not-a-celebrity.com](http://i-am-not-a-celebrity.com/2012/05/21/londons-underground-art-scenes/) this was an exhibition in 2012 which explored the journey, identity and publicity of London Transport. Some of the work is interesting:
+
+<!--images i-am-not-a-celebrity.com -->
+
 
 
 ###Inspired Ideas
@@ -684,6 +810,13 @@ I found it a really interesting style and wanted to try it out for myself, final
 
 Week 6
 ------
+
+###Revolution & The Bauhaus
+
+
+[To be continued...]
+
+
 
 ###Presentation
 
