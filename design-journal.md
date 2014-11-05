@@ -811,6 +811,23 @@ I found it a really interesting style and wanted to try it out for myself, final
 Week 6
 ------
 
+###James Victore
+
+####10 rules for Typography
+
+* Learn the rules then break them
+* Don't Decorate Crap
+* There are No Ugly Typefaces
+* There is no 'right' font - you are a magician, make your own!
+* Sometimes the wrong choice is the best
+* Avoid Pull Down Menu tricks
+* Technology is not the answer - you are!
+* Avoid trends - create your own style!
+* Feck Perfection
+* Following the rules makes your work the same as everyone else's
+
+
+
 ###Revolution & The Bauhaus
 
 
@@ -946,6 +963,7 @@ I then created a few versions on Illustrator:
 ![Break Poster](images/break-poster3.png)
 
 
+
 Through feedback I was advised that the best was the first, and I should develop on it including some information about the Conference such as the date and location, as my design was very minimal. Here are the other versions I created:
 
 
@@ -954,6 +972,18 @@ Through feedback I was advised that the best was the first, and I should develop
 ![Break Poster](images/break-poster5.png)
 
 ![Break Poster](images/break-poster6.png)
+
+
+To get the exact Break logo I had to screenshot it on the website [breakconf.org](http://breakconf.org) and then Image trace it on Illustrator to get the outlines. This is also how I was able to match the background colour to keep the brand consistant.
+
+For the Typography I used the Google Chrome App 'What Font' to be able to find out the fonts used on the website, Klavika and Elena. As Klavika was Sans-serif I decided to use this for the poster because it would be more legible.
+
+The only problem was that both these fonts are not free, therefore I had to search for a free version that was similar. I came across a post in [typophile.com](http://typophile.com/node/90302) asking the question I wanted to know, and a user suggested Titillium:
+
+![Titillium Typeface](images/titillium.png)
+
+
+The user provided the website from which I was able to [download the font](http://www.campivisivi.net/archivio/_titillium/titillium2010/download.html) and add to my Illustrator fonts - yay!
 
 
 ###Inspired Ideas
