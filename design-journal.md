@@ -925,6 +925,67 @@ Fonts used (from http://www.fontspace.com):
 Week 7
 ------
 
+
+###Break Poster
+
+Week 5 we were given the task to create posters for the Break Conference using the Plakastil Style. Through the lecture and writing about the style I had gathered research to what the style of poster was like; simple, one image with minimal lettering.
+
+Straight away I had a vision of the main logo of break in the centre of the page, so I sketched this idea along with a few others:
+
+
+<!--image-->
+
+As you can see they all have the theme of using the range of letter E's used for the Break logo as I felt this was a significant part of the brand.
+
+I then created a few versions on Illustrator:
+
+![Break Poster](images/break-poster1.png)
+
+![Break Poster](images/break-poster2.png)
+
+![Break Poster](images/break-poster3.png)
+
+
+Through feedback I was advised that the best was the first, and I should develop on it including some information about the Conference such as the date and location, as my design was very minimal. Here are the other versions I created:
+
+
+![Break Poster](images/break-poster4.png)
+
+![Break Poster](images/break-poster5.png)
+
+![Break Poster](images/break-poster6.png)
+
+
+###Inspired Ideas
+
+This week I found some time to do some things I've been meaning to for a while now. Week 5 I mentioned Pointalism, and showed a picture of a bird coloured in using blue pen dots. I really wanted to try this so I took advantage of my free time this week to begin it!
+
+I found an image of a bird I liked on Google Images:
+
+![Bird](images/bluebird.jpg)
+
+Source: [myfourthirds.com](http://www.myfourthirds.com/files/1226/P1278710_copy.jpg)
+
+I didn't realise how sore my hand would get from the millions of tiny dots I had to do! So I only got this far this week:
+
+<!--image-->
+
+
+Week 3 I also mentioned about how I found Marian Bantjes Sugar piece's very inspiring:
+
+
+![Sugar Piece](images/mbantjes.jpg)
+
+
+Source:[blog.sub-studio.com](http://blog.sub-studio.com/images/2008/0225sugar1.jpg)
+
+Finally I got round to trying it out for myself!
+
+
+
+<!--image-->
+
+
 Week 8
 ------
 
