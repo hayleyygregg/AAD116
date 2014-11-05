@@ -813,9 +813,20 @@ Week 6
 
 ###James Victore
 
-####10 rules for Typography
+Breifly we were shown the works of James Victore;
 
-* Learn the rules then break them
+> Unlike a lot of designers who eschew politics in favor of clients and cash, Victore has carved a special niche for himself, yelling loudly about issues that matter to him..."Graphic design has power as tool for change and comment, and people don't take advantage of that enough."
+
+Source: [fastcodesign.com](http://www.fastcodesign.com/1662292/the-best-of-james-victore-graphic-designs-rebel-with-a-cause)
+
+
+> Victore's aesthetic is vanishingly simple: His process involves lots of doodling and he doesn't know much about computers — and that's part of the charm. He's not a naif about making things look nice, but his work most notable for what it actually says. "Unlike most graphic designers, I'm not interested in the spaces between letters and making words look good," he says. "I'm interested in what the words say. I can't be a graphic designer and not comment."
+
+Source: [fastcodesign.com](http://www.fastcodesign.com/1662292/the-best-of-james-victore-graphic-designs-rebel-with-a-cause)
+
+We looked at his ['Top Type Tips'](http://trendland.com/james-victores-top-type-rules/):
+
+1. Learn the rules then break them
 * Don't Decorate Crap
 * There are No Ugly Typefaces
 * There is no 'right' font - you are a magician, make your own!
@@ -826,9 +837,30 @@ Week 6
 * Feck Perfection
 * Following the rules makes your work the same as everyone else's
 
+I think these are really inspiring guidelines to religiously follow as a designer, so I'll be sure to remind myself of them every so often!
+
 
 
 ###Revolution & The Bauhaus
+
+WW1 had a large impact on a number of art movements, as designers reacted to what was happening in their work.
+
+
+####De Stijl
+
+A movement that was a reaction to the trauma of WW1 and founded by Piet Mondrian and Theo van Doesburg.
+
+
+The movement was inspired by Cubism, consisting of a Geometric and Abstraction style that “simplified visual compositions to the vertical and horizontal directions, and used only primary colours along with black and white.” (Source: [99designs.com](http://99designs.com/designer-blog/2012/12/18/know-your-design-history-the-utopian-de-stijl-movement/))
+
+De Stijl artists also "experimented with three-dimensional figures such as furniture, houses and other similar objects". (Source: [chiaramae.wordpress.com](http://chiaramae.wordpress.com/2014/01/22/de-stijl-part-ii/))
+
+<!--image of red and blue chair and 1921 painting by Piet Mondrain from 99designs.com-->
+
+I discovered the essence of De Stijl can be seen in “the grid” UI layout for Windows 8:
+
+
+<!--image-->
 
 
 [To be continued...]
