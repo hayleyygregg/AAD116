@@ -978,14 +978,29 @@ Teachers at the Bauhaus:
 
 **On White II (1923)**
 
-* Paul Klee - Experimenting with Colour
+* **Paul Klee** - Experimenting with Colour
 
 ![Castle And Sun (1928)](http://i.huffpost.com/gen/908748/thumbs/o-PAUL-KLEE-BIRTHDAY-facebook.jpg)
 
 
 **Castle And Sun (1928)**
 
-* Josef Albers - Colour Theory
+* **Josef Albers** - Former Bauhaus Student that became a Master, work included designing furniture and working with glass:
+
+
+![Glass assemblage (1921)](http://2.bp.blogspot.com/-uXyy5xEAiog/UBDAROh04oI/AAAAAAAARZw/qgXESXeKGP0/s640/5.jpg)
+
+**Glass assemblage (1921)**
+
+Later in life Albers explored colour, creating a series of works in 1950 named 'Homeage to the Square' which became world famous:
+
+![Homeage to the Square Prints](http://mysticmedusa.com/wp-content/uploads/2011/01/Joseph-Albers-Homage-To-The-Square1.jpg)
+
+
+
+In 1963 he also published 'The Interaction of Colour', a guide for artists, teachers and students:
+
+![Interaction of Colour Book](http://www.iainclaridge.co.uk/blog/wp-content/uploads/0511/josef_albers.jpg)
 
 
 
