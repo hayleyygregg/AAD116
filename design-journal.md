@@ -866,6 +866,75 @@ I discovered the essence of De Stijl can be seen in “the grid” UI layout for
 [To be continued...]
 
 
+Theo van Doesburg's early work was influenced by Van Gogh, however, after reading Wassily Kandinsky's book 'Rückblicke' he turned to abstraction. This can be seen in the composition study he did of a cow breaking it down into simple planes:
+
+![Abstract Cow](http://lonelyautodidact.files.wordpress.com/2011/05/4-stages-of-cow.png)
+
+This reminded me of when I was a child, I had a DVD called 'Spirit - The Stallion of the Cimarron':
+
+![DVD Cover](http://ecx.images-amazon.com/images/I/41io5RLhqbL._SY300_.jpg)
+
+The bonus features included the artist of the animation showing how he sketched the horse, below is an image similar to what was shown on the DVD. The first two images show how the structure of the horse has been broken down into abstract forms.:
+
+![How to draw a horse](http://fc08.deviantart.net/fs35/f/2008/307/2/8/Draw_a_Horse_2_by_Ditroi.jpg)
+
+Doesburg also created a De Stijl typeface, using the geometric concept of the square and a 5x5 grid to work from:
+
+![De Stijl Typeface](http://www.identifont.com/samples/p22/DeStijl.gif)
+
+####Design Revolution
+
+The Russian Revolution had an impact on design, influencing Constructivism and other movements.
+
+Constructivism involves simple geometric shapes and structures, below are some artists from this time:
+
+####Kazimir Malevich
+
+![The Knife-Grinder 1913](http://www.shafe.co.uk/crystal/images/lshafe/Malevich_The_Knife_Grinder_1912.jpg)
+
+**The Knife-Grinder (1913)**
+
+![Black Square 1915](http://www.tate.org.uk/art/images/research/2148_10.jpg)
+
+**Black Square (1915)**
+
+####El Lissitzky
+
+![Beat the Whites with the Red Wedge 1920](http://upload.wikimedia.org/wikipedia/en/5/5f/Artwork_by_El_Lissitzky_1919.jpg)
+
+**Beat the Whites with the Red Wedge (1920)**
+
+This is a personal favourite of mine, I discovered that this was actually a Propaganda poster!
+
+
+![The Story of the Little Red Square](http://www.citrinitas.com/history_of_viscom/images/avantgarde/PRO01.jpg)
+
+
+**The Story of the Little Red Square**
+
+
+![Proun Series](http://www.citrinitas.com/history_of_viscom/images/avantgarde/P93M0021.jpg)
+
+**Proun Series**
+
+I discovered that Lissitzky's work was before the time of programs such as Illustrator or Photoshop that you would be able to generate shapes from, therefore all his work was created by hand!
+
+
+####Alexander Rodchenko
+
+A key figure of introducing Photography to Constructivism:
+
+![Shouting Woman 1924](http://www.boerner.net/jboerner/wp-content/uploads/2009/09/rodchenko0236.jpg)
+
+
+**Shouting Woman from 'Lilya Brik' poster (1924) **
+
+![Lilya Brik poster 1924](http://i.telegraph.co.uk/multimedia/archive/01183/arts-graphics-2008_1183342a.jpg)
+
+
+**Lilya Brik' poster (1924)**
+
+
 
 ###Presentation
 
