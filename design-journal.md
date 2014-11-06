@@ -1003,13 +1003,20 @@ In 1963 he also published 'The Interaction of Colour', a guide for artists, teac
 ![Interaction of Colour Book](http://www.iainclaridge.co.uk/blog/wp-content/uploads/0511/josef_albers.jpg)
 
 
+* **Herbert Bayer** - Last living member of the Bauhaus, Created many Typefaces and (to my discovery!) some lovely works of art!
 
 
-[To be continued...]
+![Strum Blond Typeface by Herbert Bayer](http://tipografos.net/tipos/sturm-blond.jpg)
 
 
+![Herbert Bayer Artwork](http://static.picassomio.com/images/art/pm-45102-large.jpg)
 
 
+![Herbert Bayer Artwork](http://www.tate.org.uk/art/images/work/P/P04/P04034_10.jpg)
+
+![Herbert Bayer Artwork](http://www.tate.org.uk/art/images/work/P/P04/P04036_10.jpg)
+
+Through the years the Bauhaus moved from Weimar 1919, to Dessau in 1925 and was finally taken over by the Natzi's and shut down in 1933.
 
 
 
