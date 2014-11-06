@@ -863,8 +863,6 @@ I discovered the essence of De Stijl can be seen in “the grid” UI layout for
 <!--image-->
 
 
-[To be continued...]
-
 
 Theo van Doesburg's early work was influenced by Van Gogh, however, after reading Wassily Kandinsky's book 'Rückblicke' he turned to abstraction. This can be seen in the composition study he did of a cow breaking it down into simple planes:
 
@@ -888,7 +886,7 @@ The Russian Revolution had an impact on design, influencing Constructivism and o
 
 Constructivism involves simple geometric shapes and structures, below are some artists from this time:
 
-####Kazimir Malevich
+#####Kazimir Malevich
 
 ![The Knife-Grinder 1913](http://www.shafe.co.uk/crystal/images/lshafe/Malevich_The_Knife_Grinder_1912.jpg)
 
@@ -898,7 +896,7 @@ Constructivism involves simple geometric shapes and structures, below are some a
 
 **Black Square (1915)**
 
-####El Lissitzky
+#####El Lissitzky
 
 ![Beat the Whites with the Red Wedge 1920](http://upload.wikimedia.org/wikipedia/en/5/5f/Artwork_by_El_Lissitzky_1919.jpg)
 
@@ -920,9 +918,9 @@ This is a personal favourite of mine, I discovered that this was actually a Prop
 I discovered that Lissitzky's work was before the time of programs such as Illustrator or Photoshop that you would be able to generate shapes from, therefore all his work was created by hand!
 
 
-####Alexander Rodchenko
+#####Alexander Rodchenko
 
-A key figure of introducing Photography to Constructivism:
+A key figure of introducing Photography to Constructivism in an attempt to get messages across:
 
 ![Shouting Woman 1924](http://www.boerner.net/jboerner/wp-content/uploads/2009/09/rodchenko0236.jpg)
 
@@ -933,6 +931,70 @@ A key figure of introducing Photography to Constructivism:
 
 
 **Lilya Brik' poster (1924)**
+
+####Bauhaus
+
+An art school in Germany, founded by Walter Gropius, that combined crafts and fine arts, famous for the approach to design that it publicised and taught. (Source: [Wikipedia](http://en.wikipedia.org/wiki/Bauhaus))
+
+
+Teachers at the Bauhaus:
+
+* **Lyonel Feininger** - the leading artist of Expressionism creating the cover of the Bauhaus publication
+
+![Cathedral, wood-cut for the Bauhaus Manifesto, 1919](http://bauhaus-online.de/files/imagecache/480h/bilder/013_16_kathedrale_0.jpg)
+
+**Cathedral, wood-cut for the Bauhaus Manifesto, 1919**
+
+* **Johannes Itten** - Colour Theory
+
+![Farbkreis (1961)](http://upload.wikimedia.org/wikipedia/commons/8/88/Farbkreis_Itten_1961.png)
+
+**Farbkreis (1961)**
+
+
+* **László Moholy-Nagy** - Worked in a number of fields such as photography, typography, sculpture, painting, printmaking, and industrial design
+
+![Typophoto Poster (1923)](http://wikis.lib.ncsu.edu/images/b/b3/Typophoto.jpg)
+
+**Typophoto Poster for Tires (1923)**
+
+
+* **Oskar Schlemmer** - the 'Master of Form' & creator of the Bauhaus Emblem
+
+![Triadisches Ballett (1922)](http://img3.visualizeus.com/thumbs/02/46/bauhaus,dance,costumes-0246bfece7bc1eedbf32d7769a2c688f_h.jpg)
+
+**[Triadisches Ballett](https://www.youtube.com/watch?v=8c6B7VKfdW4) (1922) choreography and costume designed by Schlemmer**
+
+
+![Bauhaus Emblem](http://www.mariabuszek.com/kcai/ConstrBau/Images/Final/SchlmrEmblm.jpg)
+
+
+**Bauhaus Emblem (1922)**
+
+
+* **Wassily Kandinsky** - Designs influenced by Music & held Workshops using Point, Line Plane
+
+![On White II (1923)](http://upload.wikimedia.org/wikipedia/en/3/39/Kandinsky_white.jpg)
+
+**On White II (1923)**
+
+* Paul Klee - Experimenting with Colour
+
+![Castle And Sun (1928)](http://i.huffpost.com/gen/908748/thumbs/o-PAUL-KLEE-BIRTHDAY-facebook.jpg)
+
+
+**Castle And Sun (1928)**
+
+* Josef Albers - Colour Theory
+
+
+
+
+[To be continued...]
+
+
+
+
 
 
 
