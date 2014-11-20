@@ -1201,8 +1201,117 @@ Finally I got round to trying it out for myself!
 <!--image-->
 
 
+###WW1 & Modernism in the US
+
+Modernism was a movement that was influenced by the Industrial Revolution and the first World War. It is a style that rejected traditional forms such as Realism, in favour of experimentation.
+
+First evolving in Europe through the likes of the Bauhaus, Le Corbusier, Ludwig Mies van der Rohe and Walter Gropius, the domination of Natzi persecusion in Germany led many artists, architechs and designers to flee to America. Bauhaus members such as Gropius and Marcel Breuer taught architecture at Harvard University, Josef and Anni Albers taught at Black Mountain College in North Carolina (teaching the same principals as the Bauhaus) and Moholy-Nagy established 'the New Bauhaus' in Chicago (now known as the Institute of Design).
+
+
+The characteristics of the Modernist approch include:
+
+* Geometric Shapes
+* Primary Colours
+* Sans Serif Typography
+* Photography
+* Asymmetric Page Layout
+* Visual Hierarchy
+
+When the insert Jan Tschichold wrote for “Elementare Typographie” (including the principals that would later become 'the New Typography') was publicised to America, there was a shift in the direction of Typography, which led to new typeface designs such as the geometric 'Futura' by Paul Renner.
+
+I discovered that [Futura has a past](http://99designs.com/designer-blog/2012/04/11/know-your-typeface-futuras-amazing-past/), being used for film titles such as '2001: A Space Odyssey' and even walked the moon! (being used as the lettering for the plaque of the first ever moon landing in 1969)
+
+###Ulm School of Design
+
+Back in Germany, the postwar years involved redesigning society, helping to move forward from the devastation left behind. The Ulm School of Design was founded by  Inge Aicher-Scholl, Otl Aicher and Max Bill in 1953; in memory of Inge's siblings who were members of the resistance group "White Rose", executed by the Nazis in 1943.
+
+
+####Otl Aicher
+
+* Branding for 1972 Olympics in Munich, Germany
+
+<!--image-->
+
+
+<!--180 pictograms http://tr210digitalmedia.wordpress.com/digital-media-practitioners-2/ -->
+
+
+* Braun Redesign
+
+
+<!--image-->
+
+
+* Lufthansa Airlines Branding (Still used today)
+
+
+<!--image-->
+
+
+
+* Created his own typeface, 'Rotis'
+
+<!--image-->
+
+
+
+####Max Bill
+
+* Former Bauhaus student at Dessau
+
+* Clock & Watch Design for Junghans
+
+<!--image-->
+
+* Ulmer Hocker - a collaboration with Hans Gugelot in 1954, creating a seat for students at the Ulm School of Design (which has multiple uses; stool, table, shelf)
+
+<!--image-->
+
+
+
+
+
+####Herbert Bayer
+
+* One of the most recognised designers that studied at the Bauhaus
+
+* Cover of Bauhaus Magazine
+
+<!--image-->
+
+
+* Strum Blond typeface 1925 (Universal)
+
+
+<!--image-->
+
+
+* Photography/Image Manipulation (The “Lonely Metropolitan” 1932)
+
+<!--image-->
+
+* Emigrated to USA 1938
+
+
+* Bazaar Magazine
+
+
+<!--image-->
+
+
+
+
+
+* Created typeface, 'Fonetik Alfabet' 1959  
+
+
+
+<!--useful about designers http://tr210digitalmedia.wordpress.com/digital-media-practitioners-2/ -->
+
 Week 8
 ------
+
+<!--Break Conf-->
 
 Week 9
 ------
