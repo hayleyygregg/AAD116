@@ -1300,13 +1300,93 @@ Back in Germany, the postwar years involved redesigning society, helping to move
 
 
 
-
-
 * Created typeface, 'Fonetik Alfabet' 1959  
+
+####Eric Gill
+
+Although mostly known for his typeface design, 'Gill Sans', Eric Gill's career involved architecture and sculptures. An example of this includes 'Ariel and Prospero' from outside the original BBC Broadcasting House building, completed in 1933.
+
+
+
+
+<!--image-->
+
+
+He also created illustrations and decorative letters for 'The Four Gospels', which is seen as 'one of Gill’s greatest achievements as an illustrator'.(Reference: [utulsa.edu](http://www.utulsa.edu/about-TU/news-events-publications/UniversityNews/2014/February/fourgospelsacquisition.aspx))
+
+<!--images-->
+
+
+####Swiss Style
+
+Known as an 'International Typographic Style' that accentuates 'cleanliness, readability and objectivity' using methods such as asymmetric layouts, grids, sans-serif type and typography, similar to the principals of The New Typography.
+
+Pioneers in the development of Graphic design include Josef Müller-Brockmann,
+Armin Hofmann, Max Bill and Emil Ruder. Two schools, Zurich School of the Applied Arts (where Josef Müller-Brockmann studied and taught) and The Basel School of Design (Established by Armin Hofmann and Emil Ruder) embraced the principals of Graphic Design and Typography, creating courses that educated students on modern design.
+
+Armin Hofmann spent his career mostly designing posters as he believed it was an efficient form of communication. He also wrote a 'Graphic Design Manual' based on the principals of Graphic Design which is apprechiated by many Graphic Designers.
+
+<!--image-->
+
+In England, Jan Tschichold began designing Penguin Book covers, applying strict proportions and refining the logo:
+
+
+<!--image-->
+
+
+My personal favourites are the Penguin Scores series which include background patterns from designers such as Stephen Russ, Elizabeth Friedlander and Barbara Lambourne:
+
+<!--image-->
+
+
+###American Modernism
+
+In America the ideas of European modernism were first rejected before being embraced. Herbert Matter, starting off in Europe, moved to the US where he practised modern design influenced by American life. His work involved photomontage, for example, his World War II Poster:
+
+<!--image-->
+
+He also produced magazine covers such as Vogue and was a design consultant for Knoll Associates:
+
+<!--image-->
+
+
+Paul Rand is best known for the logo designs of many corporate identities, such as IBM, ABC and UPS, embracing the Swiss Style in his work and the history of design.
+
+<!--images-->
+
+Saul Bass, who also created logo designs for brands such as Kleenex and Quaker, is best known for his title sequences.
+
+<!--images-->
+
+Before Bass, title sequences were not seen as important and not much effort was put into them. Therefore he is seen as the man that revolutionised the design of the title sequence. His first title sequence, 'The Man with the Golden Arm' in 1955, is what took off his career. He believed the design of the sequence should set a mood and provide a metaphorical story to the subject of the film about to be viewed.
+
+
+<!--images-->
+
+
+He also created movie posters such as Vertigo and Anatomy of a Murder:
+
+<!--images-->
+
+
+There are many contemporary movie posters, such as the the Star Wars series by Olly Moss:
+
+
+<!--images-->
+
+
+###Pop Art
+
 
 
 
 <!--useful about designers http://tr210digitalmedia.wordpress.com/digital-media-practitioners-2/ -->
+
+
+
+
+
+
 
 Week 8
 ------
