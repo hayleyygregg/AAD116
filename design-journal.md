@@ -1339,6 +1339,12 @@ My personal favourites are the Penguin Scores series which include background pa
 <!--image-->
 
 
+I discovered Rudolph de Harak was one of the first American designers to merge the Swiss style with his own, which can be seen in his book cover designs:
+
+<!--image-->
+
+
+
 ###American Modernism
 
 In America the ideas of European modernism were first rejected before being embraced. Herbert Matter, starting off in Europe, moved to the US where he practised modern design influenced by American life. His work involved photomontage, for example, his World War II Poster:
@@ -1376,6 +1382,71 @@ There are many contemporary movie posters, such as the the Star Wars series by O
 
 
 ###Pop Art
+
+Pop Art is a movement similar to Dada, challenging the traditions of Fine Art. It includes the features of imagery and material related to mainstream culture, for example, advertising and comic books.
+
+Although Andy Warhol is seen as the key figure of Pop Art I learned through research that the first person to actually produce work that fell into the 'Pop Art' genre was Eduardo Paolozzi. It was his series of 'Bunk!' collages (e.g. I was a Rich Man's Plaything (1947)) presented at the Independant Group in London which influenced the focus on 'pop culture'. (Source of information: [Wikipedia](http://en.wikipedia.org/wiki/Pop_art))
+
+<!--I was a Rich Man's Plaything (1947) image-->
+
+
+Roy Lichtenstein was known for imitating comic strips using oil and paint to create work with a Pop Art style. An example of his work is 'Drowning Girl', 'taken from the lead story in DC Comics' Secret Hearts #83' that 'features thick outlines, bold colors and Ben-Day dots, as if created by photographic reproduction.' (Reference: [Wikipedia](http://en.wikipedia.org/wiki/Pop_art))
+
+
+<!--image-->
+
+As previously mentioned, Andy Warhol is a well-known figure of Pop Art exploring 'the relationship between artistic expression, celebrity culture and advertisement'.(Reference: [Wikipedia](http://en.wikipedia.org/wiki/Andy_Warhol))
+
+> It was during the 1960s that Warhol began to make paintings of iconic American objects such as dollar bills, mushroom clouds, electric chairs, Campbell's Soup Cans, Coca-Cola bottles, celebrities such as Marilyn Monroe, Elvis Presley, Marlon Brando, Troy Donahue, Muhammad Ali, and Elizabeth Taylor
+
+- (Reference: [Wikipedia](http://en.wikipedia.org/wiki/Andy_Warhol))
+
+####Recognised Works
+
+
+* Coca-Cola bottles - representing democratic equality (Source: [adbranch.com](http://www.adbranch.com/andy-warhols-coca-cola-paintings/))
+
+
+<!-- image -->
+
+* Marilyn Diptych - tribute to Marilyn Monroe using 'the same publicity photograph from the 1953 film Niagara' (Source: [tate.org.uk](http://www.tate.org.uk/art/artworks/warhol-marilyn-diptych-t03093))
+
+
+<!--image-->
+
+
+* Campbell's Soup Cans - Warhols work included subjects such as comic strips, however, with Roy Lichtenstein in the same field, he decided he wanted to be different. It was talking to a friend that Warhol was inspired, as they suggested doing something 'everybody recognised, like Campbell’s Soup' (Source: [uk.phaidon.com](http://uk.phaidon.com/agenda/art/articles/2013/february/22/the-fascinating-story-behind-andy-warhols-soup-cans/))
+
+
+<!--image-->
+
+* The paintings were displayed together on shelves, like products in a grocery aisle, arranged in chronological order of when the soups were introduced. (Source of Information: [moma.org](http://www.moma.org/learn/moma_learning/andy-warhol-campbells-soup-cans-1962))
+
+
+Through research, I disovered Yayoi Kusama, who was a precursor of Pop Art (as well as other movements) and influenced Andy Warhol. Her work was inspired by 'childhood dreams and visions in which she saw the world covered in polka dots', covering 'paintings, drawings, and sculptures with a repeated, almost obsessive, layer of dots, nets, squiggles, and stickers.' (Refernece: [moma.org](http://www.moma.org/collection/artist.php?artist_id=3315))
+
+
+<!--Yayoi Kusama's Ascension of Polka Dots on the Trees at the Singapore Biennale 2006 on Orchard Road, Singapore image-->
+
+<!--The Obliteration Room 2011-->
+
+
+<!--Yayoi Kusama . Dots Obsession, 2011-->
+
+Further Research led to finding out that she suffered from mental illness which influenced her work, as 'the colorful and repetitive polka dot patterns that are so common in her pieces are a result of her hallucinations in which patterns leave their objects to cover entire rooms.' (Reference: [melissahuang.com](http://www.melissahuang.com/2012/01/31/women-in-art-yayoi-kusama/))
+
+
+Milton Glaser, who designed the iconic I Love New York logo in 1977, was inspired by movements such as Art Nouveau, Pop and Op art. An example of this can be seen in the poster he created for Bob Dylan:
+
+
+<!--images-->
+
+
+I found a website that posted [Barbie Recreations of Art Classics](http://www.designboom.com/art/barbie-recreations-of-art-classics/) that showcases contemporary versions of famous works including Andy Warhol and Milton Glaser, previously mentioned:
+
+<!--images http://www.designboom.com/art/barbie-recreations-of-art-classics/ -->
+
+
 
 
 
